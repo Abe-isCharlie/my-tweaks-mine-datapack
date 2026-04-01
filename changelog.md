@@ -1,5 +1,12 @@
 # Changelog
 
+Note: Any changes related to the spawns of Ancient Debris clusters will only affect new chunks.
+
+- [0.1.0 - 2026-04-01](#010---2026-04-01)
+- [0.0.3 - 2026-03-28](#003---2026-03-28)
+- [0.0.2](#002)
+- [0.0.1](#001)
+
 ## 0.1.0 - 2026-04-01
 
 ### Added
@@ -27,5 +34,5 @@
 
 ### Added
 
-- Increased spawn rates of standard Ancient Debris clusters in the Nether.
-- Introduced a new medium distribution layer between Y=8 and Y=176.
+- Increased spawn rates of vanilla Ancient Debris clusters in the Nether.
+- Added a new medium Ancient Debris cluster spanning layers Y=8 to Y=176.
