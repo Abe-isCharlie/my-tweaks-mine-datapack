@@ -11,7 +11,7 @@ Note: Any changes related to the spawns of Ancient Debris clusters will only aff
 
 ### Added
 
-- Added changelog file.
+- Added changelog file and github page.
 
 ## 0.0.3 - 2026-03-28
 
