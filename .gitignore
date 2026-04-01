@@ -2,3 +2,4 @@ todo.md
 .markdownlint.json
 .markdownlint-cli2.json
 .git
+.gitignore
